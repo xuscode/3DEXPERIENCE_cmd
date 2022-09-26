@@ -15,6 +15,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CATV6Lib", "..\CATV6\CATV6L
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GeneratateAnimation", "..\CATV6\GeneratateAnimation\GeneratateAnimation.vbproj", "{4F34F5A0-7248-4BF7-A688-A477D5B4AD75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CATObjectModelerLibrary", "..\CATObjectModelerLibrary\CATObjectModelerLibrary.csproj", "{F4DEE0B3-8B37-43AC-9ABA-029FDB90A812}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{4F34F5A0-7248-4BF7-A688-A477D5B4AD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F34F5A0-7248-4BF7-A688-A477D5B4AD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F34F5A0-7248-4BF7-A688-A477D5B4AD75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4DEE0B3-8B37-43AC-9ABA-029FDB90A812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DEE0B3-8B37-43AC-9ABA-029FDB90A812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DEE0B3-8B37-43AC-9ABA-029FDB90A812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DEE0B3-8B37-43AC-9ABA-029FDB90A812}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

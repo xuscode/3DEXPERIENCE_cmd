@@ -6,12 +6,25 @@
     <RootNamespace>_3DEXPERIENCE_Cmd</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageIcon>3DSCompass.png</PackageIcon>
+    <ApplicationIcon>DS.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="DS.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\Sharprompt\Sharprompt\Sharprompt.csproj" />
     <ProjectReference Include="..\..\CATV6\CATV6Lib\CATV6Lib.vbproj" />
     <ProjectReference Include="..\..\CATV6\GeneratateAnimation\GeneratateAnimation.vbproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="3DSCompass.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
