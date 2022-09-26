@@ -1,8 +1,8 @@
-﻿using System.Text;
+﻿
+using System.Text;
+using System.Drawing;
 
 namespace Sharprompt.Example;
-
-
 
 // ReSharper disable LocalizableElement
 class Program
@@ -22,7 +22,9 @@ class Program
                     break;
                 case CmdList.cmd2:
 
+                  
                    
+                    
 
                     break;
                 case CmdList.cmd3:
