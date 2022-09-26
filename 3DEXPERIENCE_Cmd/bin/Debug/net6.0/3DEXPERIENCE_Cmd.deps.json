@@ -10,6 +10,7 @@
         "dependencies": {
           "CATV6Lib": "1.0.0",
           "GeneratateAnimation": "1.0.0",
+          "PLMGetProduct": "1.0.0",
           "Sharprompt": "1.0.0"
         },
         "runtime": {
@@ -166,6 +167,17 @@
           "GeneratateAnimation.dll": {}
         }
       },
+      "PLMGetProduct/1.0.0": {
+        "dependencies": {
+          "CATV6Lib": "1.0.0",
+          "GeneratateAnimation": "1.0.0",
+          "Sharprompt": "1.0.0",
+          "Sharprompt.Example": "1.0.0"
+        },
+        "runtime": {
+          "PLMGetProduct.dll": {}
+        }
+      },
       "Sharprompt/1.0.0": {
         "dependencies": {
           "System.ComponentModel.Annotations": "4.1.0"
@@ -180,6 +192,14 @@
           "ja/Sharprompt.resources.dll": {
             "locale": "ja"
           }
+        }
+      },
+      "Sharprompt.Example/1.0.0": {
+        "dependencies": {
+          "Sharprompt": "1.0.0"
+        },
+        "runtime": {
+          "Sharprompt.Example.dll": {}
         }
       }
     }
@@ -333,7 +353,17 @@
       "serviceable": false,
       "sha512": ""
     },
+    "PLMGetProduct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Sharprompt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sharprompt.Example/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

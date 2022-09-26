@@ -18,6 +18,8 @@
     <ProjectReference Include="..\..\..\Sharprompt\Sharprompt\Sharprompt.csproj" />
     <ProjectReference Include="..\..\CATV6\CATV6Lib\CATV6Lib.vbproj" />
     <ProjectReference Include="..\..\CATV6\GeneratateAnimation\GeneratateAnimation.vbproj" />
+    <ProjectReference Include="..\..\CATV6\PLMGetProduct\PLMGetProduct.csproj" />
+    <ProjectReference Include="..\..\CATV6\PLMProduct\PLMProduct.vbproj" />
   </ItemGroup>
 
 </Project>

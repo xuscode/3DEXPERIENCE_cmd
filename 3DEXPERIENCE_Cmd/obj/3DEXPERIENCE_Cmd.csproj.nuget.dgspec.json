@@ -38,6 +38,9 @@
               "D:\\code\\DS_CATIA\\CATV6\\GeneratateAnimation\\GeneratateAnimation.vbproj": {
                 "projectPath": "D:\\code\\DS_CATIA\\CATV6\\GeneratateAnimation\\GeneratateAnimation.vbproj"
               },
+              "D:\\code\\DS_CATIA\\CATV6\\PLMGetProduct\\PLMGetProduct.csproj": {
+                "projectPath": "D:\\code\\DS_CATIA\\CATV6\\PLMGetProduct\\PLMGetProduct.csproj"
+              },
               "D:\\code\\Sharprompt\\Sharprompt\\Sharprompt.csproj": {
                 "projectPath": "D:\\code\\Sharprompt\\Sharprompt\\Sharprompt.csproj"
               }
@@ -105,6 +108,141 @@
       },
       "frameworks": {
         "net472": {}
+      }
+    },
+    "D:\\code\\DS_CATIA\\CATV6\\PLMGetProduct\\PLMGetProduct.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\code\\DS_CATIA\\CATV6\\PLMGetProduct\\PLMGetProduct.csproj",
+        "projectName": "PLMGetProduct",
+        "projectPath": "D:\\code\\DS_CATIA\\CATV6\\PLMGetProduct\\PLMGetProduct.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\DS_CATIA\\CATV6\\PLMGetProduct\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\code\\DS_CATIA\\CATV6\\CATV6Lib\\CATV6Lib.vbproj": {
+                "projectPath": "D:\\code\\DS_CATIA\\CATV6\\CATV6Lib\\CATV6Lib.vbproj"
+              },
+              "D:\\code\\DS_CATIA\\CATV6\\GeneratateAnimation\\GeneratateAnimation.vbproj": {
+                "projectPath": "D:\\code\\DS_CATIA\\CATV6\\GeneratateAnimation\\GeneratateAnimation.vbproj"
+              },
+              "D:\\code\\Sharprompt\\Sharprompt.Example\\Sharprompt.Example.csproj": {
+                "projectPath": "D:\\code\\Sharprompt\\Sharprompt.Example\\Sharprompt.Example.csproj"
+              },
+              "D:\\code\\Sharprompt\\Sharprompt\\Sharprompt.csproj": {
+                "projectPath": "D:\\code\\Sharprompt\\Sharprompt\\Sharprompt.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\code\\Sharprompt\\Sharprompt.Example\\Sharprompt.Example.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\code\\Sharprompt\\Sharprompt.Example\\Sharprompt.Example.csproj",
+        "projectName": "Sharprompt.Example",
+        "projectPath": "D:\\code\\Sharprompt\\Sharprompt.Example\\Sharprompt.Example.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\Sharprompt\\Sharprompt.Example\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\code\\Sharprompt\\Sharprompt\\Sharprompt.csproj": {
+                "projectPath": "D:\\code\\Sharprompt\\Sharprompt\\Sharprompt.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
       }
     },
     "D:\\code\\Sharprompt\\Sharprompt\\Sharprompt.csproj": {

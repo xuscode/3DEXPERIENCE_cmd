@@ -54,3 +54,10 @@ D:\code\DS_CATIA\3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd\obj\Debug\net6.0\refint\3DEXP
 D:\code\DS_CATIA\3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd\obj\Debug\net6.0\3DEXPERIENCE_Cmd.pdb
 D:\code\DS_CATIA\3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd\obj\Debug\net6.0\3DEXPERIENCE_Cmd.genruntimeconfig.cache
 D:\code\DS_CATIA\3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd\obj\Debug\net6.0\ref\3DEXPERIENCE_Cmd.dll
+D:\code\DS_CATIA\3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd\bin\Debug\net6.0\Sharprompt.Example.deps.json
+D:\code\DS_CATIA\3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd\bin\Debug\net6.0\Sharprompt.Example.runtimeconfig.json
+D:\code\DS_CATIA\3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd\bin\Debug\net6.0\Sharprompt.Example.exe
+D:\code\DS_CATIA\3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd\bin\Debug\net6.0\PLMGetProduct.dll
+D:\code\DS_CATIA\3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd\bin\Debug\net6.0\Sharprompt.Example.dll
+D:\code\DS_CATIA\3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd\bin\Debug\net6.0\PLMGetProduct.pdb
+D:\code\DS_CATIA\3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd\bin\Debug\net6.0\Sharprompt.Example.pdb

@@ -13,27 +13,21 @@ class Program
 
         while (true)
         {
-            var type = Prompt.Select<CmdList>("Choose prompt list");
+            var type = Prompt.Select<CmdList>("Choose prompt list,选择命令");
 
             switch (type)
             {
-                case CmdList.Animation:
+                case CmdList.Animation_根据曲线生成截图:
                     GeneratateAnimation.GeneratateAnimation.CATMain();
                     break;
-                case CmdList.cmd2:
-
-                  
-                   
-                    
-
+                case CmdList.SearchProductByType_通过名称和类型搜索文件:
+                    PLMGetProduct.GetProduct.Run();
+                      
                     break;
-                case CmdList.cmd3:
-                    RunPasswordSample();
+                case CmdList.SearchProductByName_通过自定义名称和类型搜索文件:
+                    PLMGetProduct.GetProduct.RunCustomType();
                     break;
-                case CmdList.cmd4:
-                    RunSelectSample();
-                    break;
-              
+               
                 default:
                     throw new ArgumentOutOfRangeException();
             }

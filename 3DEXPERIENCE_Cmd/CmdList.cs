@@ -7,17 +7,8 @@ using System.Threading.Tasks;
 
 public enum CmdList
 {
-    Animation,
-    cmd2,
-    cmd3,
-    cmd4,
-    cmd5
+    Animation_根据曲线生成截图,
+    SearchProductByType_通过名称和类型搜索文件,
+    SearchProductByName_通过自定义名称和类型搜索文件
 }
 
-
-//namespace _3DEXPERIENCE_Cmd
-//{
-//    internal class CmdList
-//    {
-//    }
-//}

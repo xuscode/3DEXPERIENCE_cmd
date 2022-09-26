@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CATObjectModelerLibrary", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows.Theme", "..\CATV6\Windows.Theme\Windows.Theme.csproj", "{F99FC810-16EF-40C9-97B7-8B1CEF56B025}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLMGetProduct", "..\CATV6\PLMGetProduct\PLMGetProduct.csproj", "{A5B37AE3-B124-4704-B172-35D62E36CC96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{F99FC810-16EF-40C9-97B7-8B1CEF56B025}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F99FC810-16EF-40C9-97B7-8B1CEF56B025}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F99FC810-16EF-40C9-97B7-8B1CEF56B025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5B37AE3-B124-4704-B172-35D62E36CC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B37AE3-B124-4704-B172-35D62E36CC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B37AE3-B124-4704-B172-35D62E36CC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B37AE3-B124-4704-B172-35D62E36CC96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +66,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{A8EA8C3F-455D-4AE0-8DCB-4EFDF13ACB06} = {BE57095B-5A72-458F-A853-E91C6B8FFA12}
 		{4F34F5A0-7248-4BF7-A688-A477D5B4AD75} = {BE57095B-5A72-458F-A853-E91C6B8FFA12}
+		{A5B37AE3-B124-4704-B172-35D62E36CC96} = {BE57095B-5A72-458F-A853-E91C6B8FFA12}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B29F48AF-24DD-46CE-9A46-3BA965E35764}
