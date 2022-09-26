@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\CATIA\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd.csproj": {}
+    "D:\\code\\DS_CATIA\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd.csproj": {}
   },
   "projects": {
-    "D:\\code\\CATIA\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd.csproj": {
+    "D:\\code\\DS_CATIA\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\CATIA\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd.csproj",
+        "projectUniqueName": "D:\\code\\DS_CATIA\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd.csproj",
         "projectName": "3DEXPERIENCE_Cmd",
-        "projectPath": "D:\\code\\CATIA\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd.csproj",
+        "projectPath": "D:\\code\\DS_CATIA\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\CATIA\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd\\obj\\",
+        "outputPath": "D:\\code\\DS_CATIA\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -32,8 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\code\\CATIA\\3DEXPERIENCE_Cmd\\CATV6\\GeneratateAnimation\\GeneratateAnimation.vbproj": {
-                "projectPath": "D:\\code\\CATIA\\3DEXPERIENCE_Cmd\\CATV6\\GeneratateAnimation\\GeneratateAnimation.vbproj"
+              "D:\\code\\DS_CATIA\\CATV6\\CATV6Lib\\CATV6Lib.vbproj": {
+                "projectPath": "D:\\code\\DS_CATIA\\CATV6\\CATV6Lib\\CATV6Lib.vbproj"
+              },
+              "D:\\code\\DS_CATIA\\CATV6\\GeneratateAnimation\\GeneratateAnimation.vbproj": {
+                "projectPath": "D:\\code\\DS_CATIA\\CATV6\\GeneratateAnimation\\GeneratateAnimation.vbproj"
               },
               "D:\\code\\Sharprompt\\Sharprompt\\Sharprompt.csproj": {
                 "projectPath": "D:\\code\\Sharprompt\\Sharprompt\\Sharprompt.csproj"
@@ -70,11 +73,11 @@
         }
       }
     },
-    "D:\\code\\CATIA\\3DEXPERIENCE_Cmd\\CATV6\\CATV6Lib\\CATV6Lib.vbproj": {
+    "D:\\code\\DS_CATIA\\CATV6\\CATV6Lib\\CATV6Lib.vbproj": {
       "restore": {
-        "projectUniqueName": "D:\\code\\CATIA\\3DEXPERIENCE_Cmd\\CATV6\\CATV6Lib\\CATV6Lib.vbproj",
+        "projectUniqueName": "D:\\code\\DS_CATIA\\CATV6\\CATV6Lib\\CATV6Lib.vbproj",
         "projectName": "CATV6Lib",
-        "projectPath": "D:\\code\\CATIA\\3DEXPERIENCE_Cmd\\CATV6\\CATV6Lib\\CATV6Lib.vbproj",
+        "projectPath": "D:\\code\\DS_CATIA\\CATV6\\CATV6Lib\\CATV6Lib.vbproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -85,16 +88,16 @@
         "net472": {}
       }
     },
-    "D:\\code\\CATIA\\3DEXPERIENCE_Cmd\\CATV6\\GeneratateAnimation\\GeneratateAnimation.vbproj": {
+    "D:\\code\\DS_CATIA\\CATV6\\GeneratateAnimation\\GeneratateAnimation.vbproj": {
       "restore": {
-        "projectUniqueName": "D:\\code\\CATIA\\3DEXPERIENCE_Cmd\\CATV6\\GeneratateAnimation\\GeneratateAnimation.vbproj",
+        "projectUniqueName": "D:\\code\\DS_CATIA\\CATV6\\GeneratateAnimation\\GeneratateAnimation.vbproj",
         "projectName": "GeneratateAnimation",
-        "projectPath": "D:\\code\\CATIA\\3DEXPERIENCE_Cmd\\CATV6\\GeneratateAnimation\\GeneratateAnimation.vbproj",
+        "projectPath": "D:\\code\\DS_CATIA\\CATV6\\GeneratateAnimation\\GeneratateAnimation.vbproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "D:\\code\\CATIA\\3DEXPERIENCE_Cmd\\CATV6\\CATV6Lib\\CATV6Lib.vbproj": {
-                "projectPath": "D:\\code\\CATIA\\3DEXPERIENCE_Cmd\\CATV6\\CATV6Lib\\CATV6Lib.vbproj"
+              "D:\\code\\DS_CATIA\\CATV6\\CATV6Lib\\CATV6Lib.vbproj": {
+                "projectPath": "D:\\code\\DS_CATIA\\CATV6\\CATV6Lib\\CATV6Lib.vbproj"
               }
             }
           }

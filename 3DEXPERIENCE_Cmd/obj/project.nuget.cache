@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GoNrsTsuyCY1vGLFGaGphXM3Zj4GoGLCMoIS8D4ozKTRuMBzIf4JN31bqivfpG0A/PWZzzdrIoJUem0r/P/dYQ==",
+  "dgSpecHash": "AH/90BNov3YuK6fGV1yBdx59te0IO6fkiw9NrSByRpeuq1Pxgf0sEXx4G/bS76HiNpZ24mnYq1e8xlvvMnDxvg==",
   "success": true,
-  "projectFilePath": "D:\\code\\CATIA\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd.csproj",
+  "projectFilePath": "D:\\code\\DS_CATIA\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd\\3DEXPERIENCE_Cmd.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",

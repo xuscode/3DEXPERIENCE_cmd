@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "3DEXPERIENCE_Cmd/1.0.0": {
         "dependencies": {
-          "ConsoleApplication1": "1.0.0",
+          "CATV6Lib": "1.0.0",
           "GeneratateAnimation": "1.0.0",
           "Sharprompt": "1.0.0"
         },
@@ -156,11 +156,6 @@
       "CATV6Lib/1.0.0": {
         "runtime": {
           "CATV6Lib.dll": {}
-        }
-      },
-      "ConsoleApplication1/1.0.0": {
-        "runtime": {
-          "ConsoleApplication1.exe": {}
         }
       },
       "GeneratateAnimation/1.0.0": {
@@ -329,11 +324,6 @@
       "hashPath": "system.threading.tasks.4.0.11.nupkg.sha512"
     },
     "CATV6Lib/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ConsoleApplication1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

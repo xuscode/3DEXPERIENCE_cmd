@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DEXPERIENCE_Cmd", "3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd.csproj", "{4761D23F-E585-4C7E-B6E8-D7B6669824F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3DEXPERIENCE_Cmd", "3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd.csproj", "{4761D23F-E585-4C7E-B6E8-D7B6669824F0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sharprompt", "..\..\Sharprompt\Sharprompt\Sharprompt.csproj", "{FC66E108-FCC7-4555-9FCE-0D8B3CC0F696}"
 EndProject
@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sharprompt.Example", "..\..
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CATV6", "CATV6", "{BE57095B-5A72-458F-A853-E91C6B8FFA12}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GeneratateAnimation", "CATV6\GeneratateAnimation\GeneratateAnimation.vbproj", "{4F34F5A0-7248-4BF7-A688-A477D5B4AD75}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CATV6Lib", "..\CATV6\CATV6Lib\CATV6Lib.vbproj", "{A8EA8C3F-455D-4AE0-8DCB-4EFDF13ACB06}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CATV6Lib", "CATV6\CATV6Lib\CATV6Lib.vbproj", "{A8EA8C3F-455D-4AE0-8DCB-4EFDF13ACB06}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GeneratateAnimation", "..\CATV6\GeneratateAnimation\GeneratateAnimation.vbproj", "{4F34F5A0-7248-4BF7-A688-A477D5B4AD75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,21 +33,21 @@ Global
 		{F240DCC0-9C05-4A8E-BBDB-56EB9B00DA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F240DCC0-9C05-4A8E-BBDB-56EB9B00DA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F240DCC0-9C05-4A8E-BBDB-56EB9B00DA15}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4F34F5A0-7248-4BF7-A688-A477D5B4AD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4F34F5A0-7248-4BF7-A688-A477D5B4AD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4F34F5A0-7248-4BF7-A688-A477D5B4AD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4F34F5A0-7248-4BF7-A688-A477D5B4AD75}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A8EA8C3F-455D-4AE0-8DCB-4EFDF13ACB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A8EA8C3F-455D-4AE0-8DCB-4EFDF13ACB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8EA8C3F-455D-4AE0-8DCB-4EFDF13ACB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8EA8C3F-455D-4AE0-8DCB-4EFDF13ACB06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F34F5A0-7248-4BF7-A688-A477D5B4AD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F34F5A0-7248-4BF7-A688-A477D5B4AD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F34F5A0-7248-4BF7-A688-A477D5B4AD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F34F5A0-7248-4BF7-A688-A477D5B4AD75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{4F34F5A0-7248-4BF7-A688-A477D5B4AD75} = {BE57095B-5A72-458F-A853-E91C6B8FFA12}
 		{A8EA8C3F-455D-4AE0-8DCB-4EFDF13ACB06} = {BE57095B-5A72-458F-A853-E91C6B8FFA12}
+		{4F34F5A0-7248-4BF7-A688-A477D5B4AD75} = {BE57095B-5A72-458F-A853-E91C6B8FFA12}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B29F48AF-24DD-46CE-9A46-3BA965E35764}

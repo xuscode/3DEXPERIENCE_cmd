@@ -10,7 +10,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\Sharprompt\Sharprompt\Sharprompt.csproj" />
-    <ProjectReference Include="..\CATV6\GeneratateAnimation\GeneratateAnimation.vbproj" />
+    <ProjectReference Include="..\..\CATV6\CATV6Lib\CATV6Lib.vbproj" />
+    <ProjectReference Include="..\..\CATV6\GeneratateAnimation\GeneratateAnimation.vbproj" />
   </ItemGroup>
 
 </Project>

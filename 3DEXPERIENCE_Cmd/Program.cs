@@ -13,17 +13,12 @@ class Program
 
         while (true)
         {
-            var type = Prompt.Select<CmdList>("Choose prompt example");
+            var type = Prompt.Select<CmdList>("Choose prompt list");
 
             switch (type)
             {
                 case CmdList.Animation:
-
                     GeneratateAnimation.GeneratateAnimation.CATMain();
-
-
-                    //RunInputSample();
-
                     break;
                 case CmdList.cmd2:
 
