@@ -61,3 +61,5 @@ D:\code\DS_CATIA\3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd\bin\Debug\net6.0\PLMGetProduc
 D:\code\DS_CATIA\3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd\bin\Debug\net6.0\Sharprompt.Example.dll
 D:\code\DS_CATIA\3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd\bin\Debug\net6.0\PLMGetProduct.pdb
 D:\code\DS_CATIA\3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd\bin\Debug\net6.0\Sharprompt.Example.pdb
+D:\code\DS_CATIA\3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd\bin\Debug\net6.0\V6AllCmd.dll
+D:\code\DS_CATIA\3DEXPERIENCE_Cmd\3DEXPERIENCE_Cmd\bin\Debug\net6.0\V6AllCmd.pdb

@@ -334,6 +334,20 @@
         "runtime": {
           "bin/placeholder/Sharprompt.Example.dll": {}
         }
+      },
+      "V6AllCmd/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CATV6Lib": "1.0.0",
+          "Sharprompt": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/V6AllCmd.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/V6AllCmd.dll": {}
+        }
       }
     }
   },
@@ -1586,6 +1600,11 @@
       "type": "project",
       "path": "../../../Sharprompt/Sharprompt.Example/Sharprompt.Example.csproj",
       "msbuildProject": "../../../Sharprompt/Sharprompt.Example/Sharprompt.Example.csproj"
+    },
+    "V6AllCmd/1.0.0": {
+      "type": "project",
+      "path": "../../CATV6/V6AllCmd/V6AllCmd.csproj",
+      "msbuildProject": "../../CATV6/V6AllCmd/V6AllCmd.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1593,7 +1612,8 @@
       "CATV6Lib >= 1.0.0",
       "GeneratateAnimation >= 1.0.0",
       "PLMGetProduct >= 1.0.0",
-      "Sharprompt >= 1.0.0"
+      "Sharprompt >= 1.0.0",
+      "V6AllCmd >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1637,6 +1657,9 @@
             },
             "D:\\code\\DS_CATIA\\CATV6\\PLMGetProduct\\PLMGetProduct.csproj": {
               "projectPath": "D:\\code\\DS_CATIA\\CATV6\\PLMGetProduct\\PLMGetProduct.csproj"
+            },
+            "D:\\code\\DS_CATIA\\CATV6\\V6AllCmd\\V6AllCmd.csproj": {
+              "projectPath": "D:\\code\\DS_CATIA\\CATV6\\V6AllCmd\\V6AllCmd.csproj"
             },
             "D:\\code\\Sharprompt\\Sharprompt\\Sharprompt.csproj": {
               "projectPath": "D:\\code\\Sharprompt\\Sharprompt\\Sharprompt.csproj"

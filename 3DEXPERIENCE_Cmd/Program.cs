@@ -27,7 +27,10 @@ class Program
                 case CmdList.SearchProductByName_通过自定义名称和类型搜索文件:
                     PLMGetProduct.GetProduct.RunCustomType();
                     break;
-               
+                case CmdList.Cmd_通过dos窗口调用CATIA的命令:
+                    V6AllCmd.Program.Run();
+                    break ;
+
                 default:
                     throw new ArgumentOutOfRangeException();
             }

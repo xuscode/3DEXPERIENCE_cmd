@@ -11,7 +11,8 @@
           "CATV6Lib": "1.0.0",
           "GeneratateAnimation": "1.0.0",
           "PLMGetProduct": "1.0.0",
-          "Sharprompt": "1.0.0"
+          "Sharprompt": "1.0.0",
+          "V6AllCmd": "1.0.0"
         },
         "runtime": {
           "3DEXPERIENCE_Cmd.dll": {}
@@ -201,6 +202,15 @@
         "runtime": {
           "Sharprompt.Example.dll": {}
         }
+      },
+      "V6AllCmd/1.0.0": {
+        "dependencies": {
+          "CATV6Lib": "1.0.0",
+          "Sharprompt": "1.0.0"
+        },
+        "runtime": {
+          "V6AllCmd.dll": {}
+        }
       }
     }
   },
@@ -364,6 +374,11 @@
       "sha512": ""
     },
     "Sharprompt.Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "V6AllCmd/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
