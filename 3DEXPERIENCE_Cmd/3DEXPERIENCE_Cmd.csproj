@@ -7,11 +7,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageIcon>3DSCompass.png</PackageIcon>
-    <ApplicationIcon>DS.ico</ApplicationIcon>
+    <ApplicationIcon>v6cmd.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="DS.ico" />
+    <Content Include="v6cmd.ico" />
   </ItemGroup>
 
   <ItemGroup>

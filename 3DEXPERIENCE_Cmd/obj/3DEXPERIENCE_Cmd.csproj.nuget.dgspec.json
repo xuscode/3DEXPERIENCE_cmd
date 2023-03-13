@@ -255,10 +255,10 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "D:\\code\\Sharprompt\\Sharprompt.Example\\Sharprompt.Example.csproj",
-        "projectName": "Sharprompt.Example",
+        "projectName": "PLMGetProduct",
         "projectPath": "D:\\code\\Sharprompt\\Sharprompt.Example\\Sharprompt.Example.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\Sharprompt\\Sharprompt.Example\\obj\\",
+        "outputPath": "D:\\code\\DS_CATIA\\CATV6\\PLMGetProduct\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -279,8 +279,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\code\\Sharprompt\\Sharprompt\\Sharprompt.csproj": {
-                "projectPath": "D:\\code\\Sharprompt\\Sharprompt\\Sharprompt.csproj"
+              "D:\\code\\Sharprompt\\CATV6Lib\\CATV6Lib.vbproj": {
+                "projectPath": "D:\\code\\Sharprompt\\CATV6Lib\\CATV6Lib.vbproj"
+              },
+              "D:\\code\\Sharprompt\\GeneratateAnimation\\GeneratateAnimation.vbproj": {
+                "projectPath": "D:\\code\\Sharprompt\\GeneratateAnimation\\GeneratateAnimation.vbproj"
+              },
+              "D:\\Sharprompt\\Sharprompt.Example\\Sharprompt.Example.csproj": {
+                "projectPath": "D:\\Sharprompt\\Sharprompt.Example\\Sharprompt.Example.csproj"
+              },
+              "D:\\Sharprompt\\Sharprompt\\Sharprompt.csproj": {
+                "projectPath": "D:\\Sharprompt\\Sharprompt\\Sharprompt.csproj"
               }
             }
           }
@@ -318,10 +327,10 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "D:\\code\\Sharprompt\\Sharprompt\\Sharprompt.csproj",
-        "projectName": "Sharprompt",
+        "projectName": "PLMGetProduct",
         "projectPath": "D:\\code\\Sharprompt\\Sharprompt\\Sharprompt.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\Sharprompt\\Sharprompt\\obj\\",
+        "outputPath": "D:\\code\\DS_CATIA\\CATV6\\PLMGetProduct\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -333,15 +342,28 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
-          "netstandard2.0": {
-            "targetAlias": "netstandard2.0",
-            "projectReferences": {}
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\code\\Sharprompt\\CATV6Lib\\CATV6Lib.vbproj": {
+                "projectPath": "D:\\code\\Sharprompt\\CATV6Lib\\CATV6Lib.vbproj"
+              },
+              "D:\\code\\Sharprompt\\GeneratateAnimation\\GeneratateAnimation.vbproj": {
+                "projectPath": "D:\\code\\Sharprompt\\GeneratateAnimation\\GeneratateAnimation.vbproj"
+              },
+              "D:\\Sharprompt\\Sharprompt.Example\\Sharprompt.Example.csproj": {
+                "projectPath": "D:\\Sharprompt\\Sharprompt.Example\\Sharprompt.Example.csproj"
+              },
+              "D:\\Sharprompt\\Sharprompt\\Sharprompt.csproj": {
+                "projectPath": "D:\\Sharprompt\\Sharprompt\\Sharprompt.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -351,8 +373,8 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "NETStandard.Library": {
               "suppressParent": "All",
