@@ -120,7 +120,7 @@ def run_command():
 
     while True:
         # 输入指令
-        user_input = input("type cmd:")
+        user_input = input("Please enter the command:")
 
         # 判断是否要退出循环
         if user_input.lower() == 'exit':
@@ -128,7 +128,7 @@ def run_command():
             sys.exit()
 
         # 使用get方法获取对应的消息，如果没有对应的指令，则返回默认值
-        message = message_dict.get(user_input, "未知指令，请重新输入！")
+        message = message_dict.get(user_input, "Unknown command, please re-enter.")
 
         # 打印消息
         print(message)
