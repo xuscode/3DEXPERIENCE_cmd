@@ -95,7 +95,7 @@ def run_command():
         "3co":"3D Curve Offset",
         "fill":"Fill",
         "ble":"Blend",
-        "joi":"Join",
+        "jo":"Join",
         "hea":"Healing",
         "cs":"Curve Smooth",
         "unt":"Untrim",
@@ -113,11 +113,11 @@ def run_command():
         "shf":"Shape Fillet",
         "edf":"Edge Fillet"
 
-
-
-
     }
 
+    message_dict_zh = {
+         "ln": "线"
+    }
     while True:
         # 输入指令
         user_input = input("Please enter the command:")
